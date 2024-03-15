@@ -1,0 +1,15 @@
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/bin/Debug/net7.0/Conditionals
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/bin/Debug/net7.0/Conditionals.deps.json
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/bin/Debug/net7.0/Conditionals.runtimeconfig.json
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/bin/Debug/net7.0/Conditionals.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/bin/Debug/net7.0/Conditionals.pdb
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/obj/Debug/net7.0/Conditionals.csproj.AssemblyReference.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/obj/Debug/net7.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfoInputs.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/obj/Debug/net7.0/Conditionals.AssemblyInfo.cs
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/obj/Debug/net7.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/obj/Debug/net7.0/Conditionals.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/obj/Debug/net7.0/refint/Conditionals.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/obj/Debug/net7.0/Conditionals.pdb
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/obj/Debug/net7.0/Conditionals.genruntimeconfig.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/obj/Debug/net7.0/ref/Conditionals.dll
