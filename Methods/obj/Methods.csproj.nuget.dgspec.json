@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Methods/Methods.csproj": {}
+    "/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/Methods.csproj": {}
   },
   "projects": {
-    "/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Methods/Methods.csproj": {
+    "/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Methods/Methods.csproj",
+        "projectUniqueName": "/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/Methods.csproj",
         "projectName": "Methods",
-        "projectPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Methods/Methods.csproj",
+        "projectPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/Methods.csproj",
         "packagesPath": "/Users/ardasunar/.nuget/packages/",
-        "outputPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Methods/obj/",
+        "outputPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ardasunar/.nuget/NuGet/NuGet.Config"

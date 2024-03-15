@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/Conditionals.csproj",
+      "projectUniqueName": "/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Conditionals/Conditionals.csproj",
       "projectName": "Conditionals",
-      "projectPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/Conditionals.csproj",
+      "projectPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Conditionals/Conditionals.csproj",
       "packagesPath": "/Users/ardasunar/.nuget/packages/",
-      "outputPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/Conditionals/obj/",
+      "outputPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Conditionals/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ardasunar/.nuget/NuGet/NuGet.Config"

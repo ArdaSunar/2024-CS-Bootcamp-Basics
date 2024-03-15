@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/TypesAndVariables/TypesAndVariables.csproj",
+      "projectUniqueName": "/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/TypesAndVariables/TypesAndVariables.csproj",
       "projectName": "TypesAndVariables",
-      "projectPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/TypesAndVariables/TypesAndVariables.csproj",
+      "projectPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/TypesAndVariables/TypesAndVariables.csproj",
       "packagesPath": "/Users/ardasunar/.nuget/packages/",
-      "outputPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/Basics/TypesAndVariables/obj/",
+      "outputPath": "/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/TypesAndVariables/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ardasunar/.nuget/NuGet/NuGet.Config"
