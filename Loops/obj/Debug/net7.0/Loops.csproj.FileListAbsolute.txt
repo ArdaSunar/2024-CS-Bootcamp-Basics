@@ -1,0 +1,15 @@
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/bin/Debug/net7.0/Loops
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/bin/Debug/net7.0/Loops.deps.json
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/bin/Debug/net7.0/Loops.runtimeconfig.json
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/bin/Debug/net7.0/Loops.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/bin/Debug/net7.0/Loops.pdb
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/obj/Debug/net7.0/Loops.csproj.AssemblyReference.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/obj/Debug/net7.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/obj/Debug/net7.0/Loops.AssemblyInfoInputs.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/obj/Debug/net7.0/Loops.AssemblyInfo.cs
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/obj/Debug/net7.0/Loops.csproj.CoreCompileInputs.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/obj/Debug/net7.0/Loops.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/obj/Debug/net7.0/refint/Loops.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/obj/Debug/net7.0/Loops.pdb
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/obj/Debug/net7.0/Loops.genruntimeconfig.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Loops/obj/Debug/net7.0/ref/Loops.dll

@@ -1,0 +1,15 @@
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/bin/Debug/net7.0/Classes
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/bin/Debug/net7.0/Classes.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/obj/Debug/net7.0/Classes.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Classes/obj/Debug/net7.0/ref/Classes.dll

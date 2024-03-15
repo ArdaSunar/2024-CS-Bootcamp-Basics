@@ -1,0 +1,15 @@
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/bin/Debug/net7.0/Methods
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/bin/Debug/net7.0/Methods.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/obj/Debug/net7.0/Methods.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Methods/obj/Debug/net7.0/ref/Methods.dll

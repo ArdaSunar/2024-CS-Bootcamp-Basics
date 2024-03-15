@@ -1,0 +1,15 @@
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/bin/Debug/net7.0/Arrays
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/ardasunar/Desktop/2024 C# BootCamp/2024-CS-Bootcamp-Basics/Arrays/obj/Debug/net7.0/ref/Arrays.dll
