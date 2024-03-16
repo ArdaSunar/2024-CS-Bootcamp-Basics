@@ -4,8 +4,19 @@ using Interfaces.Entities.Concrete;
 
 //InterfacesIntro();
 
-CustomerManager customerManager = new CustomerManager();
-customerManager.Add(new OracleCustomerDal());
+//Demo();
+
+ICustomerDal[] customerDals = new ICustomerDal[2]
+{
+    new SqlServerCustomerDal(),
+    new OracleCustomerDal()
+};
+
+foreach (var customerDal in customerDals)
+{
+    customerDal.Add();
+}
+
 Console.ReadLine();
 
 static void InterfacesIntro()
@@ -22,4 +33,10 @@ static void InterfacesIntro()
     };
 
     manager.Add(student);
+}
+
+static void Demo()
+{
+    CustomerManager customerManager = new CustomerManager();
+    customerManager.Add(new OracleCustomerDal());
 }
